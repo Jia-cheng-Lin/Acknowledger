@@ -1282,11 +1282,11 @@ let others = [
         subtitle: "🧑‍🔬Poster presentation at IEEE SENSORS 2025",
         speaker: "研討會報告",
         content: """
-            It’s my honor to attend IEEE SENSORS 2025 in Vancouver, Canada, from October 19th to 22th.Our project “Micromixer-Integrated Triboelectric Microfluidic Biosensor for Blood Coagulation Monitoring.” was presented as a poster at the conference.
+                It’s my honor to attend IEEE SENSORS 2025 in Vancouver, Canada, from October 19th to 22th.Our project “Micromixer-Integrated Triboelectric Microfluidic Biosensor for Blood Coagulation Monitoring.” was presented as a poster at the conference.
 
-            We developed a novel microfluidic biosensor that integrates a micromixer and triboelectric sensing system to rapidly measure the blood coagulation time. Mixing is achieved through secondary flow by curved channel and expansion–contraction microchannel design, while voltage signals are generated via liquid–solid triboelectric effect at copper electrodes. The device detects changes in blood viscosity during clot formation by analyzing real-time voltage variations, offering an alternative method to replace traditional APTT and PT tests.
+                We developed a novel microfluidic biosensor that integrates a micromixer and triboelectric sensing system to rapidly measure the blood coagulation time. Mixing is achieved through secondary flow by curved channel and expansion–contraction microchannel design, while voltage signals are generated via liquid–solid triboelectric effect at copper electrodes. The device detects changes in blood viscosity during clot formation by analyzing real-time voltage variations, offering an alternative method to replace traditional APTT and PT tests.
 
-            I’m truly grateful for the support from my advisors, lab members, and collaboration teams. I would also like to thank the National Science and Technology Council (NSTC) for funding that made this work possible. Finally, I appreciate everyone who visited my poster to ask questions, discuss the content, and share feedback. I’ve recorded these valuable insights and will keep working on improving the research!
+                I’m truly grateful for the support from my advisors, lab members, and collaboration teams. I would also like to thank the National Science and Technology Council (NSTC) for funding that made this work possible. Finally, I appreciate everyone who visited my poster to ask questions, discuss the content, and share feedback. I’ve recorded these valuable insights and will keep working on improving the research!
 
             #IEEE #SENSORS #Conference #Vancouver #Canada
             #Micromixer #Triboelectric #Blood #Coagulation
@@ -1298,13 +1298,19 @@ let others = [
 
             與會心得
             在此次 IEEE SENSORS 2025 研討會中，我以 海報報告 (poster presentation)的形式分享近期研究成果。報告時間為當地時間 10 月 22 日上午 8:30 至 10:00。
+            
             在正式報告前一日活動結束後，我先行將海報張貼於指定位置。張貼過程中已有於活動中結識的學者前來交流與提問。正式報告期間，亦有來自世界各地的研究者前來聽取介紹，提出問題、討論研究內容，並針對未來發展方向給予建議。整個報告時段共有超過十位學者陸續前來提問。
+            
             在介紹研究時，為了讓所有聽眾能快速理解研究主題與臨床意義，我會先以日常例子說明血液凝固（blood coagulation）的重要性。例如：「當我們受傷時可能會流血對吧，但是我們的身體很快會作用來止血，而這個環節就叫做 Coagulation。而監測血液凝固的時間對於要進行手術的病人及有凝血相關疾病的病人來說非常重要。」透過簡單的幾句介紹，讓我的初步介紹可以讓來聆聽的學者能夠快速理解。
+            
             接著會依據來詢問的學者想要著重了解的面向，分別去說明在我研究中液體快速混合的混合器、摩擦起電的電訊號量測系統、真實血液檢測與使用的生物檢測為何等幾個部分去介紹與討論。讓我印象深刻的是，有幾位已是教授等級的專家，是在所有的文章中，透過關鍵字前來我的海報、也有透過在我標題上「血液凝固」、「摩擦起電」等的幾個專有名詞而前來詢問的研究學者，所以再與專家們的交流中我也學到了許多，以及如何更加精進我的研究成果呈現，如其中一位教授就有提醒到，我可以把我研究中怎麼透過數據分析去得到對應的凝血時間的部分更清楚的呈現。也有學者提到怎麼去辨別獲得的摩擦起電訊號與雜訊去除等問題，給予我增加一些濾波的電路在系統中的回饋。
+            
             透過這次海報發表，我不僅更加熟練以英文介紹研究內容，也獲得了許多關於成果呈現與實驗優化的實質回饋。相信在後續整理與調整後，研究將能有更完善的發展。圖二為我與海報及交流時的合影。
 
             除了努力準備自己的報告環節，也盡力的去觀看其他研究學者的海報與演講。其中，針對微流體、摩擦起電、穿戴裝置、生醫感測器等幾個與自身研究內容較相近的主題尤為有興趣，也與這些研究主題的報告者進行交流。其中，就有看到一個海報也是透過微流體設計的晶片，去感測尿液中的葡萄糖濃度，這樣的研究題目方向給予我許多啟發，原先我都是著重在血液的檢測，但若是我的量測技術夠穩定，摩擦起電訊號除了可以判斷流體性質變化，在近期的研究中也有可以量測各種分子的濃度變化，所以即使從自身的研究中，也能有許多繼續延展的方向。
+            
             而在整個會議中，最讓我印象深刻的是在第三場的keynote speech上，由Chengkuo Lee教授分享的「AI Sensors and Edge AI Applications」。李教授的研究是以「智慧感測器」、「微機電製程」、「穿戴裝置」等的多種研究領域為主，這些都是與我研究脈絡很有關聯、且我很感興趣的題目。而貫穿著整個演講的主題「AI感測器與應用」更是讓我有許多的省思。我們或許能透過感測器獲得許多的數據，但往往也需花費更多時間去將這些數據去做分析、評估、並且進行比較，而在李教授介紹的許多研究中，很多數據、圖檔都可以透過AI的協助來去協助分析，尤其在許多智慧穿戴裝置上更是重要。李教授介紹了其中的幾個項目，包含穿戴式輔助機械手套、智慧家電的瑜珈墊、AIoT的聯網雲端系統等。除了智慧裝置，傳統的化學品檢測、光學系統感測器、電化學訊號接收的感測器等傳統的感測器也有許多與AI結合，來更好的搭配應用的介紹。在短短的一個半小時的演講中讓我有許多想法的湧入，即使我現在的研究、或者將其穩定後延伸的應用，都還是在一小塊特定的需求上發揮作用而已，但在未來有更大量的資料需要處理時，人工智慧感測器以及與物聯網系統整合的運算勢必會是在感測器系統取得訊號後會需要近一步整合的部分，想必這也會是未來的研究趨勢，也期許自己在這場演講後可以開始思考怎麼將人工智慧感測器這部分加入到自己的研究之中，跟上未來的國際趨勢。圖三是演講上的一些重點部分照片。
+            
             總結來說，在這場國際會議中，除了在海報報告中獲得許多其他學者給予的建議與回饋，也在各種的海報與演講中獲得許多的啟發，也與許多的研究學者建立了聯繫，交換了聯絡資料。希望我能帶著這次在國際會議中所學到的內容，繼續精進自己在學術研究上的內容、並持續掌握最新的研究趨勢、與國際上的學者持續聯絡。
 
             """
